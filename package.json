@@ -1,6 +1,10 @@
 {
-	"author": "Mialy Andrianrivony",
+	"author": "Mialy Andrianarivony",
 	"name": "fcc-learn-npm-package-json",
+  	"description": "Project for JSON npm packages and back-end",
+  	"keywords": [ "back end", "npm", "packages", "javascript", "APIs", "development", "freecodecamp" ],
+  	"license": "MIT",
+  	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
